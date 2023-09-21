@@ -1,1 +1,7 @@
 /* Write your code here. */
+.main-image {
+  background-color:#0f172a;
+  background-size:cover;
+  height:100vh;
+  width:100vh;
+}
